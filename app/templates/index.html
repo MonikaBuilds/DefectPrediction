@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Defect Prediction System</title>
+</head>
+<body>
+    <h2>Defect Prediction System</h2>
+    <form action="/predict" method="post">
+        <label>LOC:</label><input type="text" name="loc" required><br>
+        <label>Complexity:</label><input type="text" name="complexity" required><br>
+        <label>Halstead Volume:</label><input type="text" name="halstead" required><br>
+
+        <input type="submit" value="Predict">
+    </form>
+    <h3>{{ prediction_text }}</h3>
+</body>
+</html>
