@@ -1,4 +1,4 @@
-# Defect Prediction System 🐛💻
+# Defect Prediction System 
 
 **Developer:** [Monika Bhati](https://github.com/MonikaBuilds)
 **GitHub:** [MonikaBuilds](https://github.com/MonikaBuilds)
@@ -113,4 +113,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 <img width="1204" height="733" alt="image" src="https://github.com/user-attachments/assets/57a5fc6d-3e81-4ba8-8709-909a456257c6" />
 <img width="1026" height="689" alt="image" src="https://github.com/user-attachments/assets/736e1702-0b3d-45c5-994e-57a08e6382b0" />
+
 
